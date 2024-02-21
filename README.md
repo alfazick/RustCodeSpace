@@ -1,0 +1,2 @@
+# RustCodeSpace
+Pure rust
